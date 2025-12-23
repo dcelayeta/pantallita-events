@@ -4,6 +4,5 @@
 # progressbar: 1=true, 0=false
 # night_mode: 0=normal (icon+temp+UV), 1=temp only (no icon/UV), 2=clock only (no fetch)
 
-Night Mode AM,1,0123456,21,25,21,30,night_mode.bmp,0,0
-Deep Night AM,1,0123456,21,30,21,35,night_mode.bmp,0,1
-Night Mode end AM,1,0123456,21,35,21,45,night_mode.bmp,0,2
+Deep Night AM,1,0123456,21,45,21,50,night_mode.bmp,0,1
+Night Mode end AM,1,0123456,21,50,21,55,night_mode.bmp,0,2
