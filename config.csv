@@ -7,7 +7,7 @@
 # - GitHub config will override this local file
 # - If GitHub fetch fails, local config is used as fallback
 
-setting,value
+#setting,value
 
 # Display toggles (true/false)
 display_weather,false
