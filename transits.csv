@@ -6,6 +6,6 @@
 # day_filter: weekday, weekend, or day codes (0-6 for Mon-Sun)
 # alt_color: optional alternative color for multi-line routes
 
-train,Red,96St,41220,10,RED,6-16,weekday,
-train,Brn,Loop,40530,10,BROWN,6-14,weekday,PURPLE
-bus,8,79st,5768,3,AQUA,6-16,weekday,
+train,Red,96St,41220,10,RED,6-22,weekday,
+train,Brn,Loop,40530,10,BROWN,6-22,weekday,PURPLE
+bus,8,79st,5768,3,AQUA,6-22,weekday,
