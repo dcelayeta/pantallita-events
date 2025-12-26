@@ -1,8 +1,4 @@
-setting,value
-
 # General
-setting,false
-setting,false
 
 # Display toggles (true/false)
 display_weather,true
