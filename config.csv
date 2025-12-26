@@ -25,6 +25,7 @@ transit_respect_commute_hours,false
 transit_display_frequency,1
 
 # CSV file versions (last modified timestamps)
-stocks_csv_version,2024-12-25T10:30:00
-transits_csv_version,2024-12-15T14:00:00
-ephemeral_events_csv_version,2024-12-25T09:00:00
+stocks_csv_version,2024-12-25T10:00:00                                                           
+schedules_csv_version,2024-12-25T10:00:00                                                        
+transits_csv_version,2024-12-25T10:00:00                                                         
+ephemeral_events_csv_version,2024-12-25T10:00:00
