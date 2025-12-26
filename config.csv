@@ -1,4 +1,4 @@
-# General
+setting,value
 
 # Display toggles (true/false)
 display_weather,true
@@ -21,5 +21,5 @@ show_weekday_indicator,false
 
 # Transit display settings
 display_transit,true
-transit_respect_commute_hours,true
+transit_respect_commute_hours,false
 transit_display_frequency,1
