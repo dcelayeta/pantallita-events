@@ -27,11 +27,10 @@ ETH/USD,Ethereum US Dollar,crypto,ETH,0
 XAU/USD,Gold Spot / US Dollar,commodity,XAU,0
 GBP/MXN,British Pound / Mexican Peso,forex,GBP,0
 
-# Display 7: Cycle 4 (3 stocks)
+# Display 7: Individual (highlighted)
+BTC/USD,Bitcoin US Dollar,crypto,BTC,1
+
+# Display 8: Cycle 4 (3 stocks)
 AAPL,Apple Inc.,stock,,0
 GOOG,Alphabet Inc. Class C,stock,,0
 NVDA,NVIDIA Corporation,stock,,0
-
-# Display 8: Individual (highlighted)
-BTC/USD,Bitcoin US Dollar,crypto,BTC,1
-
