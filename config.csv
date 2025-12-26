@@ -1,5 +1,3 @@
-# General
-
 # Display toggles (true/false)
 display_weather,true
 display_forecast,true
@@ -28,4 +26,4 @@ transit_display_frequency,1
 stocks_csv_version,2024-12-25T10:30:00
 schedules_csv_version,2024-12-20T08:00:00
 transits_csv_version,2024-12-15T14:00:00
-ephemeral_events_csv_version,2024-12-25T09:00:00
+ephemeral_events_csv_version,2025-12-26T05:31:30.457Z
