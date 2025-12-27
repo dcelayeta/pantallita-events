@@ -1,5 +1,5 @@
 # Transit Routes Configuration
-# Format: type,route,display_label,stop_number,min_time,commute_hours,days
+# Format: type,route,label,stops,min_time,commute_hours,[days]
 #
 # type: train or bus
 # route: Pipe-separated CTA route identifier (e.g., "Brn" for Brown Line, "22" for Bus 22)
@@ -12,14 +12,14 @@
 #  	     - Pink → PINK                                                                                    
 #  	     - Y → YELLOW                                                                                     
 #  	     - Bus numbers → WHITE (default)
-# 		   - Multiple routes = "any of these lines/buses" (shows earliest arrival)
+# 		 - Multiple routes (Brn|P) = fetches both lines, merges arrivals, shows up to 2 times
 # label: Short display name (max 6 chars, e.g., "ToLoop", "22Nrth")
 # stops: Pipe-separated stop IDs (map IDs for trains, stop IDs for buses)
 #        Multiple stops = "any of these stations" (shows earliest arrival)
 # min_time: Minimum minutes to display (hide arrivals closer than this)
 # commute_hours: Optional. Pipe-separated time ranges in 24h format (e.g., "6-9|16-19")
 #        Shows only during these hours. Omit or use empty string for always show.
-# days: Optional. Day filter - "weekday" or empty (Mon-Fri), "weekend" (Sat-Sun), "all" (every day)
+# days: Optional - defaults to "weekday" (Mon-Fri) if omitted. Options: "weekday", "weekend", "all"
 #       Can also use specific days as numbers: "0,1,2" (0=Monday, 6=Sunday)
 #
 # Example configurations:
