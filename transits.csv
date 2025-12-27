@@ -23,12 +23,12 @@
 #       Can also use specific days as numbers: "0,1,2" (0=Monday, 6=Sunday)
 #
 # Example configurations:
-# train,Red,ToLoop,40900|41380,3,6-9|16-19,weekday,
-# bus,22,22Nrth,1234,5,6-9|16-19,weekday,
+# train,Red,ToLoop,40900|41380,3,6-9|16-19,weekday
+# bus,22,22Nrth,1234,5,6-9|16-19,weekday
 # train,Brn|P,South,40530,3,6-10,weekday  # Brown/Purple split color
 #
 # Multiple stops example (Red Line northbound from either Howard or Jarvis):
-# train,Red,North,40900|40100,3,,all,
+# train,Red,North,40900|40100,3,,all
 #
 # Notes:
 # - Times use 24-hour format (0-23)
