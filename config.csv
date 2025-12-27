@@ -15,7 +15,7 @@ stocks_respect_market_hours,true
 stocks_grace_period_minutes,90
 
 # Weekday indicator settings
-show_weekday_indicator,false
+show_weekday_indicator,true
 
 # Transit display settings
 display_transit,true
