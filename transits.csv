@@ -14,6 +14,6 @@
 # train,Brn|P,Loop,40530,10,9-12,weekday
 # bus,8,79st,5768,3,,weekday
 
-train,Brn|P,Loop,40530,10,9-12,weekday
-train,Red,96St,41220,10,9-12,weekday
-bus,8,79st,5768,3,6-15,weekday
+train,Brn|P,Loop,40530,10,9-18,all
+train,Red,96St,41220,10,9-18,all
+bus,8,79st,5768,3,6-15,all
