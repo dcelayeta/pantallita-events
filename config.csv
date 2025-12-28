@@ -10,8 +10,8 @@ display_events,true
 temperature_unit,C
 
 # Stock display settings
-stocks_display_frequency,1
-stocks_respect_market_hours,true
+stocks_display_frequency,3
+stocks_respect_market_hours,false
 stocks_grace_period_minutes,90
 
 # Weekday indicator settings
@@ -20,7 +20,7 @@ show_weekday_indicator,false
 # Transit display settings
 display_transit,true
 transit_respect_commute_hours,false
-transit_display_frequency,1
+transit_display_frequency,2
 
 # CSV file versions (last modified timestamps)
 stocks_csv_version,2025-12-28T00:14:02.684Z
