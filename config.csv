@@ -1,6 +1,6 @@
 # Display toggles (true/false)
 display_weather,false
-display_forecast,false
+display_forecast,true
 display_stocks,false
 display_clock,false
 display_schedules,false
