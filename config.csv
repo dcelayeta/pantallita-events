@@ -11,11 +11,11 @@ temperature_unit,C
 
 # Stock display settings
 stocks_display_frequency,1
-stocks_respect_market_hours,false
+stocks_respect_market_hours,true
 stocks_grace_period_minutes,90
 
 # Weekday indicator settings
-show_weekday_indicator,true
+show_weekday_indicator,false
 
 # Transit display settings
 display_transit,true
