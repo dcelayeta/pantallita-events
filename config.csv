@@ -25,5 +25,5 @@ transit_display_frequency,1
 # CSV file versions (last modified timestamps)
 stocks_csv_version,2025-12-28T00:14:02.684Z
 schedules_csv_version,2025-12-27T05:55:10.226Z
-transits_csv_version,2025-12-28T16:13:49.356Z
+transits_csv_version,2025-12-29T15:39:09.592Z
 ephemeral_events_csv_version,2025-12-27T20:20:51.472Z
