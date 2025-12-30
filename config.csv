@@ -1,10 +1,10 @@
 # Display toggles (true/false)
-display_weather,true
-display_forecast,true
-display_stocks,true
+display_weather,false
+display_forecast,false
+display_stocks,false
 display_clock,false
 display_schedules,false
-display_events,true
+display_events,false
 
 # Temperature unit (F or C)
 temperature_unit,C
@@ -15,10 +15,10 @@ stocks_respect_market_hours,false
 stocks_grace_period_minutes,90
 
 # Weekday indicator settings
-show_weekday_indicator,true
+show_weekday_indicator,false
 
 # Transit display settings
-display_transit,true
+display_transit,false
 transit_respect_commute_hours,true
 transit_display_frequency,1
 
