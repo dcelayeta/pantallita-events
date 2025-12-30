@@ -28,12 +28,13 @@ XAU/USD,Gold Spot / US Dollar,commodity,XAU,0
 GBP/MXN,British Pound / Mexican Peso,forex,GBP,0
 
 # Display 7: Individual (highlighted)
-DIS,The Walt Disney Company,stock,,1
-
-# Display 8: Individual (highlighted)
 BTC/USD,Bitcoin US Dollar,crypto,BTC,1
 
-# Display 9: Cycle 4 (3 stocks)
+# Display 8: Cycle 4 (3 stocks)
 GOOG,Alphabet Inc. Class C,stock,,0
 NVDA,NVIDIA Corporation,stock,,0
 AAPL,Apple Inc.,stock,,0
+
+# Display 9: Individual (highlighted)
+DIS,The Walt Disney Company,stock,,1
+
