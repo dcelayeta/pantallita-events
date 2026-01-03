@@ -8,7 +8,7 @@ Deep Night AM,1,0123456,1,30,5,30,night_mode.bmp,0,2
 Night Mode end AM,1,0123456,5,30,6,30,night_mode.bmp,0,1
 Get Dressed,1,0123456,7,0,7,15,get_dressed.bmp,1,0
 Eat Breakfast,1,0123456,7,15,7,40,breakfast.bmp,1,0
-Toilet and Teeth AM,1,0123456,7,40,7,50,toilet_and_teeth.bmp,1,0
+Medicine,1,0123456,7,40,7,50,medicine.bmp,1,0
 Go to School,1,01234,7,50,8,15,go_to_school.bmp,1,0
 Quiet Time SAT,1,5,12,30,13,30,quiet_time.bmp,1,0
 Gimnastics,1,6,11,40,12,10,gimnastics.bmp,1,0
