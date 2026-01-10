@@ -1,7 +1,7 @@
 # Display toggles (true/false)
 display_weather,true
 display_forecast,true
-display_stocks,true
+display_stocks,false
 display_schedules,true
 display_events,true
 
