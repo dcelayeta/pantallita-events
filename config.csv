@@ -1,7 +1,7 @@
 # Display toggles (true/false)
 display_weather,true
 display_forecast,true
-display_stocks,false
+display_stocks,true
 display_schedules,true
 display_events,true
 
@@ -17,7 +17,7 @@ stocks_grace_period_minutes,90
 show_weekday_indicator,true
 
 # Transit display settings
-display_transit,false
+display_transit,true
 transit_respect_commute_hours,true
 transit_display_frequency,1
 
