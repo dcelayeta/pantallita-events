@@ -16,30 +16,28 @@ FDIG,Fidelity Crypto Industry & Digital Payments ETF,stock,,1
 
 # Display 4: Cycle 2 (3 stocks)
 USD/MXN,US Dollar / Mexican Peso,forex,MXN,0
+EUR/MXN,Euro / Mexican Peso,forex,EUR,0
 # Display 5: Individual (highlighted)
-EUR/MXN,Euro / Mexican Peso,forex,EUR,1
-
-# Display 6: Individual (highlighted)
 CAD/MXN,Canadian Dollar / Mexican Peso,forex,CAD,1
 
-# Display 7: Individual (highlighted)
+# Display 6: Individual (highlighted)
 LUMN,Lumen Technologies Inc.,stock,,1
 
 ETH/USD,Ethereum US Dollar,crypto,ETH,0
-XAU/USD,Gold Spot / US Dollar,commodity,XAU,0
 
-# Display 8: Cycle 3 (3 stocks)
+# Display 7: Cycle 3 (3 stocks)
+XAU/USD,Gold Spot / US Dollar,commodity,XAU,0
 GBP/MXN,British Pound / Mexican Peso,forex,GBP,0
-# Display 9: Individual (highlighted)
+# Display 8: Individual (highlighted)
 BTC/USD,Bitcoin US Dollar,crypto,BTC,1
 
-# Display 10: Individual (highlighted)
+# Display 9: Individual (highlighted)
 GOOG,Alphabet Inc. Class C,stock,,1
 
-# Display 11: Individual (highlighted)
+# Display 10: Individual (highlighted)
 NVDA,NVIDIA Corporation,stock,,1
 
-# Display 12: Individual (highlighted)
+# Display 11: Individual (highlighted)
 AAPL,Apple Inc.,stock,,1
 
 ABNB,Airbnb,stock,,0
