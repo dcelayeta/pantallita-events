@@ -37,8 +37,9 @@ BTC/USD,Bitcoin US Dollar,crypto,BTC,1
 # Display 10: Individual (highlighted)
 GOOG,Alphabet Inc. Class C,stock,,1
 
-# Display 11: Cycle 3 (3 stocks)
-NVDA,NVIDIA Corporation,stock,,0
+# Display 11: Individual (highlighted)
+NVDA,NVIDIA Corporation,stock,,1
+
 # Display 12: Individual (highlighted)
 AAPL,Apple Inc.,stock,,1
 
