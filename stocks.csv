@@ -43,6 +43,5 @@ NVDA,NVIDIA Corporation,stock,,1
 # Display 12: Individual (highlighted)
 AAPL,Apple Inc.,stock,,1
 
-# Display 13: Individual (highlighted)
-ABNB,Airbnb, Inc.,stock,stock,1
-
+# Display 13: Cycle 3 (3 stocks)
+ABNB,Airbnb,stock,,0
