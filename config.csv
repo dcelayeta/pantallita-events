@@ -1,28 +1,29 @@
 # Display toggles (true/false)
 display_weather,true
 display_forecast,true
-display_stocks,false
-display_schedules,true
+display_schedules,false
 display_events,true
+display_stocks,true
+display_transit,true
 
 # Temperature unit (F or C)
 temperature_unit,C
+
+# Weekday indicator settings
+show_weekday_indicator,true
 
 # Stock display settings
 stocks_display_frequency,1
 stocks_respect_market_hours,true
 stocks_grace_period_minutes,90
 
-# Weekday indicator settings
-show_weekday_indicator,true
-
 # Transit display settings
-display_transit,false
 transit_respect_commute_hours,true
 transit_display_frequency,1
 
 # CSV file versions (last modified timestamps)
-stocks_csv_version,2026-01-14T07:21:29.325Z
-schedules_csv_version,2026-01-15T03:32:36.616Z
-transits_csv_version,2026-01-09T17:47:13.223Z
-ephemeral_events_csv_version,2025-12-31T21:24:24.265Z
+stocks_csv_version,2026-01-16T22:36:19.602Z
+schedules_csv_version,2025-12-31T23:13:18.899Z
+transits_csv_version,2026-01-18T05:51:57.700Z
+ephemeral_events_csv_version,2026-01-18T08:58:23.447Z
+recurring_events_csv_version,2026-01-18T20:18:56.954Z
