@@ -1,0 +1,16 @@
+# Format: MM-DD,TopLine,BottomLine,Image,Color[,StartHour,EndHour]
+# Recurring events repeat yearly on the specified date
+# TopLine = displays on TOP of screen
+# BottomLine = displays on BOTTOM (usually the name)
+# Times are optional (24-hour format, 0-23). If omitted, event shows all day.
+
+01-01,Happy,New Year,calendar.bmp,BUGAMBILIA
+02-14,Valentines,Day,heart.bmp,RED
+06-11,Birthday,Pablo,cake.bmp,MINT
+07-04,4th of,July,us_flag.bmp,BUGAMBILIA
+09-16,Viva,Mexico,mexico_flag_v3.bmp,BUGAMBILIA
+10-09,Birthday,Popi,cake.bmp,PINK
+10-31,Happy,Halloween,halloween_pumpkin.bmp,BUGAMBILIA
+11-02,Dia de,Muertos,calaverita.bmp,BUGAMBILIA
+12-24,Christmas,Eve,christmas_tree.bmp,MINT
+12-25,Merry,X-MAS,santa_claus.bmp,BUGAMBILIA
